@@ -1,10 +1,12 @@
 # GambleTheme
 A dark theme for Visual Studio 2019.
 
-Download and Install via the Visual Studio Marketplace:
+![Screenshot v1.3](https://github.com/matt-dunleavy/GambleTheme/blob/81b39831b6348be7119f36c997739759a29eeb93/screenshot_2.jpg)
+
+Download and install the most current release build via the Visual Studio Marketplace:
 https://marketplace.visualstudio.com/items?itemName=MattDunleavy.GambleTheme
 
-![Screenshot v1.3](https://github.com/matt-dunleavy/GambleTheme/blob/81b39831b6348be7119f36c997739759a29eeb93/screenshot_2.jpg)
+After installing, you can activate the theme within your Visual Studio IDE under Tools > Options > General.
 
 Tested in Visual Studio 2019 (Community Edition)
 Built in Visual Studio Color Theme Designer extension (v16.0)
