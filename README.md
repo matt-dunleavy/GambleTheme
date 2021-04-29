@@ -8,7 +8,6 @@ https://marketplace.visualstudio.com/items?itemName=MattDunleavy.GambleTheme
 
 After installing, you can activate the theme within your Visual Studio IDE under Tools > Options > General.
 
-Tested in Visual Studio 2019 (Community Edition)
-Built in Visual Studio Color Theme Designer extension (v16.0)
+Tested in Visual Studio 2019 Community Edition.
 
 
